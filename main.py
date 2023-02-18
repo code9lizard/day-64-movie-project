@@ -82,7 +82,7 @@ def add():
         new_movie = add_movie_form.data["add_movie"]
         print(new_movie)
         headings = {
-            "api_key": "615eae181753e7f26bc0eaa07f11a92a",
+            "api_key": "THESECRETKEYTHATNOONEKNOWS",
             "query": new_movie,
         }
         SEARCH_URL = "https://api.themoviedb.org/3/search/movie"
