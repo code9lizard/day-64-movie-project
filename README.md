@@ -1,5 +1,6 @@
 # day-64-movie-project
 
+## Error:
 ## Traceback (most recent call last):
   File "C:\Users\eliza\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 2548, in __call__
     return self.wsgi_app(environ, start_response)
