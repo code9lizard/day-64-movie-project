@@ -6,7 +6,7 @@ from wtforms import StringField, SubmitField
 from wtforms.validators import DataRequired
 import requests
 
-TMDB_API = "615eae181753e7f26bc0eaa07f11a92a"
+TMDB_API = "SECRETKEYTHATNOONEKNOWS"
 suggested_movie_list = []
 
 app = Flask(__name__)
